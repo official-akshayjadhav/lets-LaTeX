@@ -1,4 +1,4 @@
-### steps to install texmaker on Ubuntu 16.04+
+### steps to configure latex on Ubuntu 16.04+
 
 1. update ubuntu
 ```
