@@ -5,9 +5,9 @@
 sudo apt update
 ```
 
-2. install latex distribution: texlive.
-options
+2. install latex distribution: texlive  
 
+### options
 type | size
 ---- | ----
 texlive-base | 136 MB
