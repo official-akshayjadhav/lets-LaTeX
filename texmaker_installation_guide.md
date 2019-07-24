@@ -5,13 +5,18 @@
 sudo apt update
 ```
 
-2. install texmaker with apt
+2. install latex distribution.
+```
+ sudo apt install texlive
+```
+
+3. install texmaker latex editor with apt
 ```
 sudo apt install texmaker
 ```
 or
 
-3. to download debian file go to following link
+4. to download debian file go to following link
 
 | https://www.xm1math.net/texmaker/download.html |
 | ---------------------------------------------- |
