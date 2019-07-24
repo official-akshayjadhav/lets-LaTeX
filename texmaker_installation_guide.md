@@ -29,3 +29,7 @@ or
 
 | https://www.xm1math.net/texmaker/download.html |
 | ---------------------------------------------- |
+
+
+### for windows
+link: https://www.latex-tutorial.com/installation/
